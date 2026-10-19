@@ -1,111 +1,116 @@
-<!-- GitHub profile README · YoussefEmad04 -->
+<!-- Youssef Emad · GitHub profile · Editorial portfolio edition -->
 <div align="center">
-  <img src="./assets/hero.svg" alt="Youssef Emad — AI Engineer · Data Scientist · LLMOps" width="100%" />
-
-  <p><strong>Building reliable AI systems — from machine learning experiments to production APIs, RAG, and agent workflows.</strong></p>
+  <img src="./assets/hero-v2.svg" width="100%" alt="Youssef Emad — AI Engineer, Data Scientist, LLM Systems" />
 
   <p>
-    <a href="https://www.linkedin.com/in/youssef-emad-742583252/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://www.kaggle.com/youssefemad004"><img src="https://img.shields.io/badge/Kaggle-Master-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Master" /></a>
-    <a href="mailto:emady5579@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-475569?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  </p>
-
-  <img src="https://komarev.com/ghpvc/?username=YoussefEmad04&label=Profile%20views&color=0891b2&style=flat" alt="Profile views" />
-</div>
-
----
-
-### 👋 About me
-
-I'm **Youssef Emad**, an **AI Engineer and Data Scientist** based in Cairo, Egypt. I work on applied machine learning, LLM-powered products, data pipelines, and the engineering needed to turn an AI prototype into a usable system.
-
-- 💼 **Data Scientist** at **Smart Vision Technology**
-- 🎓 **M.Sc. in Informatics** student at **Nile University** · B.Sc. in Artificial Intelligence
-- 🧑‍🏫 **AI/ML & LLMOps Instructor** at **Route Academy**
-- 🏆 **Kaggle Master** — Notebooks
-- 🎯 **Interests:** LLMOps, RAG evaluation, knowledge graphs, agent orchestration, applied data science, and production ML
-
-### 🧩 What I work on
-
-| AI systems | Production engineering | Data & analytics |
-| :--- | :--- | :--- |
-| RAG & knowledge graphs | FastAPI model serving | ML classification & risk scoring |
-| LLM evaluation & fine-tuning | Docker & AWS deployment | SQL, ETL & medallion pipelines |
-| LangGraph agent workflows | Monitoring & reproducibility | Analytics & BI dashboards |
-
-### 🛠️ Tech stack
-
-<div align="center">
-  <p><strong>Machine learning · Backend · Cloud · Data</strong></p>
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,fastapi,docker,aws,postgres,mongodb,git,linux&perline=11" alt="Python, PyTorch, TensorFlow, OpenCV, FastAPI, Docker, AWS, PostgreSQL, MongoDB, Git, and Linux" />
-  <p>
-    <img src="https://img.shields.io/badge/scikit--learn-ML-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-    <img src="https://img.shields.io/badge/Pandas-Data-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
-    <img src="https://img.shields.io/badge/LangGraph-Agents-0F766E?style=flat-square" alt="LangGraph" />
-    <img src="https://img.shields.io/badge/Neo4j-Knowledge_Graph-008CC1?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" />
-    <img src="https://img.shields.io/badge/IBM_watsonx-AI_%26_Data-052FAD?style=flat-square&logo=ibm&logoColor=white" alt="IBM watsonx" />
-    <img src="https://img.shields.io/badge/Power_BI-Analytics-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+    <a href="https://www.linkedin.com/in/youssef-emad-742583252/"><img src="https://img.shields.io/badge/LinkedIn-Profile-253245?style=flat-square&logo=linkedin&logoColor=7BDCC8" alt="LinkedIn" /></a>
+    <a href="https://www.kaggle.com/youssefemad004"><img src="https://img.shields.io/badge/Kaggle-Notebooks%20Master-253245?style=flat-square&logo=kaggle&logoColor=7BDCC8" alt="Kaggle Master" /></a>
+    <a href="mailto:emady5579@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20connect-253245?style=flat-square&logo=gmail&logoColor=7BDCC8" alt="Email" /></a>
   </p>
 </div>
 
----
+## About
 
-### 🚀 Featured projects
+I’m an **AI Engineer & Data Scientist** based in Cairo, Egypt. I build applied machine learning systems, LLM-powered applications, and the infrastructure around them — from data preparation and evaluation to APIs, deployment, and monitoring.
+
+**Currently** · Data Scientist at **Smart Vision Technology** · AI/ML & LLMOps Instructor at **Route Academy** · **M.Sc. Informatics** at Nile University.
+
+> I care about the engineering after the demo: measurable quality, clear architecture, and systems people can actually use.
+
+## Selected work
 
 <table>
-<tr>
-<td width="50%" valign="top">
-  <h3>🎓 <a href="https://github.com/YoussefEmad04/Graduation_Project">UniMate — Smart Academic Advisor</a></h3>
-  <p>A student-facing AI assistant combining <strong>RAG</strong>, a <strong>Neo4j knowledge graph</strong>, and <strong>LangGraph</strong> routing to answer academic-policy and course-prerequisite questions.</p>
-  <p><code>FastAPI</code> <code>LangGraph</code> <code>Neo4j</code> <code>Supabase</code></p>
-  <p><a href="https://github.com/YoussefEmad04/Graduation_Project"><strong>Explore project →</strong></a></p>
-</td>
-<td width="50%" valign="top">
-  <h3>📊 <a href="https://github.com/YoussefEmad04/AI-Powered-Procurement-Risk-Analytics-System">Spend & Risk Copilot</a></h3>
-  <p>Procurement risk analytics with invoice/vendor pipelines, <strong>ML-based risk scoring</strong>, a medallion architecture, dashboards, and natural-language analytics.</p>
-  <p><code>IBM watsonx</code> <code>Presto</code> <code>Iceberg</code> <code>SQL</code></p>
-  <p><a href="https://github.com/YoussefEmad04/AI-Powered-Procurement-Risk-Analytics-System"><strong>Explore project →</strong></a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-  <h3>☁️ <a href="https://github.com/YoussefEmad04/MLOps-Maestro-Enterprise-ML-Deployment-Suite">MLOps Maestro</a></h3>
-  <p>An end-to-end collection of ML deployment workflows, from model serving through <strong>REST APIs</strong> and <strong>Docker</strong> to AWS deployment patterns.</p>
-  <p><code>FastAPI</code> <code>Docker</code> <code>AWS EC2/ECR/ECS</code></p>
-  <p><a href="https://github.com/YoussefEmad04/MLOps-Maestro-Enterprise-ML-Deployment-Suite"><strong>Explore project →</strong></a></p>
-</td>
-<td width="50%" valign="top">
-  <h3>🧠 <a href="https://github.com/YoussefEmad04/Agentic-Code-Reviewer">Agentic Code Reviewer</a></h3>
-  <p>An LLM-powered <strong>LangGraph</strong> code-review workflow that gives structured feedback on code quality, security, and maintainability through a Flask interface.</p>
-  <p><code>LangChain</code> <code>LangGraph</code> <code>Flask</code></p>
-  <p><a href="https://github.com/YoussefEmad04/Agentic-Code-Reviewer"><strong>Explore project →</strong></a></p>
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/YoussefEmad04/Graduation_Project">
+        <img src="./assets/work-unimate.svg" width="100%" alt="UniMate — Smart Academic Advisor project" />
+      </a>
+      <p><strong>RAG + structured knowledge</strong><br />
+      An academic advisor using retrieval, a Neo4j knowledge graph, and LangGraph routing for policy Q&amp;A and prerequisite reasoning.<br />
+      <sub><strong>Evaluation:</strong> 84% full-match across 150 live prompts, with no runtime failures in the reported test.</sub></p>
+      <p><a href="https://github.com/YoussefEmad04/Graduation_Project"><strong>Explore repository ↗</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/YoussefEmad04/AI-Powered-Procurement-Risk-Analytics-System">
+        <img src="./assets/work-risk.svg" width="100%" alt="Spend and Risk Copilot — procurement analytics" />
+      </a>
+      <p><strong>Data pipelines + AI analytics</strong><br />
+      A procurement intelligence platform with invoice and vendor data pipelines, ML risk scoring, medallion layers, and natural-language-to-SQL analytics.<br />
+      <sub>IBM watsonx.data · Presto · Iceberg · SQL</sub></p>
+      <p><a href="https://github.com/YoussefEmad04/AI-Powered-Procurement-Risk-Analytics-System"><strong>Explore repository ↗</strong></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/YoussefEmad04/MLOps-Maestro-Enterprise-ML-Deployment-Suite">
+        <img src="./assets/work-mlops.svg" width="100%" alt="MLOps Maestro — model serving and deployment" />
+      </a>
+      <p><strong>Production-oriented ML</strong><br />
+      End-to-end model deployment workflows spanning REST API serving, containerization, and AWS cloud deployment patterns.<br />
+      <sub>FastAPI · Docker · AWS EC2 / ECR / ECS</sub></p>
+      <p><a href="https://github.com/YoussefEmad04/MLOps-Maestro-Enterprise-ML-Deployment-Suite"><strong>Explore repository ↗</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/YoussefEmad04/Agentic-Code-Reviewer">
+        <img src="./assets/work-agent.svg" width="100%" alt="Agentic Code Reviewer — LangGraph agent workflow" />
+      </a>
+      <p><strong>LLM agents + developer tools</strong><br />
+      A LangGraph code-analysis workflow that returns structured security, maintainability, and style feedback through a Flask UI.<br />
+      <sub>LangGraph · LangChain · Flask</sub></p>
+      <p><a href="https://github.com/YoussefEmad04/Agentic-Code-Reviewer"><strong>Explore repository ↗</strong></a></p>
+    </td>
+  </tr>
 </table>
 
-**More projects:** [AI Resume Screening & RAG](https://github.com/YoussefEmad04/CV-Scanning-System) · [License Plate Detection + OCR](https://github.com/YoussefEmad04/CarPlate) · [SQL Data Warehouse](https://github.com/YoussefEmad04/SQL-DWH-Project)
+**Also worth exploring** · [AI Resume Screening & RAG](https://github.com/YoussefEmad04/CV-Scanning-System) · [License Plate Detection + OCR](https://github.com/YoussefEmad04/CarPlate) · [SQL Data Warehouse](https://github.com/YoussefEmad04/SQL-DWH-Project)
 
----
+## Engineering focus
 
-### 📈 GitHub activity
+| Build intelligent systems | Make them reliable | Work with data |
+| :--- | :--- | :--- |
+| RAG · knowledge graphs · LLM agents | Evaluation · FastAPI · containerization | SQL · ETL · analytics |
+| NLP · fine-tuning · ML models | Deployment · monitoring · cloud | Data pipelines · risk scoring · BI |
+
+**My workflow:** Frame the problem → Build a baseline → Evaluate honestly → Deploy thoughtfully → Observe and improve.
+
+## Tools I work with
 
 <div align="center">
-  <a href="https://github.com/YoussefEmad04">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=YoussefEmad04&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Youssef's GitHub stats" />
-  </a>
-  <a href="https://github.com/YoussefEmad04?tab=repositories">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefEmad04&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" alt="Most used public repository languages" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,fastapi,postgres,docker,aws,git,linux&amp;perline=9" alt="Python, PyTorch, TensorFlow, FastAPI, PostgreSQL, Docker, AWS, Git and Linux" />
 </div>
 
-<sub>Stats are generated by a third-party service and reflect public GitHub activity; language charts do not measure proficiency.</sub>
+<br />
+
+**Machine Learning & AI** · scikit-learn, Pandas, Hugging Face, LangGraph, LangChain, RAG, Neo4j
+
+**Data & Cloud** · SQL, IBM watsonx, Iceberg, Presto, Power BI, AWS
+
+**Application Engineering** · FastAPI, REST APIs, Docker, Git, Linux
+
+## Beyond the code
+
+- **Graduate studies** — M.Sc. Informatics, Nile University.
+- **Teaching & mentoring** — Production AI Engineering, ML, and LLMOps concepts at Route Academy.
+- **Kaggle Master** — Notebooks category, with a focus on reproducible learning and knowledge sharing.
+
+<details>
+  <summary><strong>GitHub activity &amp; language breakdown</strong> — expand</summary>
+  <br />
+  <div align="center">
+    <img height="158" src="https://github-readme-stats.vercel.app/api?username=YoussefEmad04&amp;show_icons=true&amp;hide_border=true&amp;theme=github_dark" alt="GitHub activity statistics" />
+    <img height="158" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefEmad04&amp;layout=compact&amp;hide_border=true&amp;theme=github_dark&amp;langs_count=6" alt="Languages used across public repositories" />
+  </div>
+  <sub>These third-party cards represent GitHub activity, not a skills assessment; availability depends on their hosting service.</sub>
+</details>
 
 ---
 
 <div align="center">
-  <h3>🤝 Let's build useful AI together</h3>
-  <p>Interested in production AI, data science, LLM systems, or collaborating on an interesting idea?</p>
-  <a href="mailto:emady5579@gmail.com">Email me</a> ·
-  <a href="https://www.linkedin.com/in/youssef-emad-742583252/">LinkedIn</a> ·
-  <a href="https://www.kaggle.com/youssefemad004">Kaggle</a>
+  <h3>Let's build something useful.</h3>
+  <p>Interested in applied AI, production ML, data systems, or LLM engineering?</p>
+  <p>
+    <a href="mailto:emady5579@gmail.com"><strong>Email</strong></a> &nbsp;·&nbsp;
+    <a href="https://www.linkedin.com/in/youssef-emad-742583252/"><strong>LinkedIn</strong></a> &nbsp;·&nbsp;
+    <a href="https://www.kaggle.com/youssefemad004"><strong>Kaggle</strong></a>
+  </p>
 </div>
