@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+<title id="title">Youssef Emad | AI Engineer and Data Scientist</title>
+<desc id="desc">Editorial dark graphite banner featuring Youssef Emad and an abstract data to production AI system diagram.</desc>
+<defs>
+<linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0B1019"/><stop offset="0.55" stop-color="#101926"/><stop offset="1" stop-color="#0B1620"/></linearGradient>
+<linearGradient id="line" x1="0" x2="1"><stop stop-color="#4FDBBF"/><stop offset="1" stop-color="#6B9DE5"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#2FBCA5" stop-opacity=".15"/><stop offset="1" stop-color="#2FBCA5" stop-opacity="0"/></radialGradient>
+<pattern id="micro" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M 34 0 L 0 0 0 34" stroke="#DDEAF7" stroke-opacity=".036" fill="none"/></pattern>
+</defs>
+<rect width="1280" height="360" rx="20" fill="url(#bg)"/>
+<rect width="1280" height="360" rx="20" fill="url(#micro)"/>
+<rect width="1278" height="358" x="1" y="1" rx="19" stroke="#ADC1DA" stroke-opacity=".18" fill="none"/>
+<rect x="64" y="52" width="38" height="38" rx="9" fill="#192A34" stroke="#59CDB9" stroke-opacity=".7"/>
+<text x="83" y="77" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="800" fill="#D9FFF4" text-anchor="middle">YE</text>
+<text x="118" y="78" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" letter-spacing="2.7" fill="#A1B4C7">APPLIED AI / ENGINEERING</text>
+<text x="65" y="175" font-family="Arial,Helvetica,sans-serif" font-size="72" font-weight="750" letter-spacing="-2" fill="#F0F5FA">Youssef Emad</text>
+<rect x="66" y="199" width="53" height="3" rx="2" fill="#51D6BC"/>
+<text x="65" y="245" font-family="Arial,Helvetica,sans-serif" font-size="26" font-weight="600" fill="#BDD3E1">AI Engineer  /  Data Scientist  /  LLM Systems</text>
+<text x="65" y="287" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#8198AD">From experiments to reliable software.</text>
+<text x="65" y="332" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="2" fill="#7892A8">MACHINE LEARNING   •   AGENTIC AI   •   MLOPS   •   DATA</text>
+<g>
+<ellipse cx="1046" cy="182" rx="235" ry="195" fill="url(#halo)"/>
+<circle cx="1043" cy="177" r="132" fill="none" stroke="#A5DBD1" stroke-opacity=".11" stroke-width="1"/>
+<circle cx="1043" cy="177" r="100" fill="none" stroke="#A5DBD1" stroke-opacity=".19" stroke-width="1"/>
+<circle cx="1043" cy="177" r="68" fill="none" stroke="#A5DBD1" stroke-opacity=".10" stroke-width="1"/>
+<path d="M830 180H944M1140 180H1239M1043 49V108M1043 246V323" stroke="url(#line)" stroke-opacity=".8" stroke-width="2.5" fill="none"/>
+<path d="M944 180L1043 108L1140 180L1043 246Z" stroke="#67CDBD" stroke-opacity=".54" fill="#17313B" fill-opacity=".18" stroke-width="2"/>
+<path d="M944 180H1140M1043 108V246" stroke="#6397BE" stroke-opacity=".25" stroke-width="1.5"/>
+<circle cx="944" cy="180" r="9" fill="#58D8BE"/><circle cx="1140" cy="180" r="9" fill="#6EACDF"/>
+<circle cx="1043" cy="108" r="9" fill="#79B6E0"/><circle cx="1043" cy="246" r="9" fill="#58D8BE"/>
+<circle cx="1043" cy="177" r="17" fill="#0C1822" stroke="#89E2D1" stroke-width="2"/>
+<circle cx="1043" cy="177" r="5" fill="#89E2D1"/>
+<g font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="2" fill="#C1D3DE">
+<text x="820" y="164">DATA</text><text x="1134" y="162">SERVE</text><text x="1058" y="54">MODEL</text><text x="1058" y="308">EVAL</text>
+</g>
+</g>
+<text x="1206" y="38" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="1.5" fill="#8A9CAD">CAIRO · EG</text>
+</svg>
