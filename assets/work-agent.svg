@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="225" viewBox="0 0 600 225" role="img" aria-labelledby="title desc">
+<title id="title">Agentic Code Reviewer</title><desc id="desc">AI Agent Workflows project</desc>
+<defs><linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101824"/><stop offset="1" stop-color="#0D141E"/></linearGradient></defs>
+<rect width="600" height="225" rx="16" fill="url(#card)"/>
+<rect x="1" y="1" width="598" height="223" rx="15" fill="none" stroke="#AEC6DF" stroke-opacity=".18"/>
+<rect x="30" y="28" width="29" height="3" rx="1.5" fill="#A1ACED"/>
+<text x="30" y="61" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="2.3" fill="#A9BACA">04 / AI AGENT WORKFLOWS</text>
+<text x="30" y="113" font-family="Arial,Helvetica,sans-serif" font-size="32" font-weight="700" fill="#F2F6FA">Agentic Code</text>
+<text x="30" y="152" font-family="Arial,Helvetica,sans-serif" font-size="32" font-weight="700" fill="#F2F6FA">Reviewer</text>
+<text x="30" y="195" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" letter-spacing=".6" fill="#91A9BE">LangGraph  /  LangChain  /  Flask</text>
+<circle cx="517" cy="110" r="83" fill="#A1ACED" fill-opacity=".055"/>
+<g stroke="#A1ACED" stroke-width="1.8" fill="none" opacity=".75"><path d="M470 73L443 106L470 138M527 73L555 106L527 138M511 62L484 150" stroke-width="4"/><rect x="427" y="51" width="143" height="124" rx="12" stroke-opacity=".25"/><circle cx="443" cy="65" r="3" fill="#A1ACED"/><circle cx="453" cy="65" r="3" fill="#A1ACED"/><circle cx="463" cy="65" r="3" fill="#A1ACED"/></g>
+</svg>
