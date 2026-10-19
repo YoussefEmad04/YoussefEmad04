@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="225" viewBox="0 0 600 225" role="img" aria-labelledby="title desc">
+<title id="title">Spend &amp; Risk Copilot</title><desc id="desc">Data + Risk Intelligence project</desc>
+<defs><linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101824"/><stop offset="1" stop-color="#0D141E"/></linearGradient></defs>
+<rect width="600" height="225" rx="16" fill="url(#card)"/>
+<rect x="1" y="1" width="598" height="223" rx="15" fill="none" stroke="#AEC6DF" stroke-opacity=".18"/>
+<rect x="30" y="28" width="29" height="3" rx="1.5" fill="#82B8E7"/>
+<text x="30" y="61" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="2.3" fill="#A9BACA">02 / DATA + RISK INTELLIGENCE</text>
+<text x="30" y="113" font-family="Arial,Helvetica,sans-serif" font-size="32" font-weight="700" fill="#F2F6FA">Spend &amp; Risk</text>
+<text x="30" y="152" font-family="Arial,Helvetica,sans-serif" font-size="32" font-weight="700" fill="#F2F6FA">Copilot</text>
+<text x="30" y="195" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" letter-spacing=".6" fill="#91A9BE">Iceberg  /  IBM watsonx  /  SQL</text>
+<circle cx="517" cy="110" r="83" fill="#82B8E7" fill-opacity=".055"/>
+<g stroke="#82B8E7" stroke-width="1.8" fill="none" opacity=".75"><path d="M426 149H574M426 112H574M426 75H574" stroke-opacity=".28"/><path d="M435 146L466 120L492 135L522 83L558 63" stroke-width="4"/><circle cx="435" cy="146" r="5" fill="#82B8E7"/><circle cx="466" cy="120" r="5" fill="#82B8E7"/><circle cx="492" cy="135" r="5" fill="#82B8E7"/><circle cx="522" cy="83" r="5" fill="#82B8E7"/><circle cx="558" cy="63" r="5" fill="#82B8E7"/></g>
+</svg>
